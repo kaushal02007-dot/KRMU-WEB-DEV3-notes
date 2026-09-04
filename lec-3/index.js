@@ -4,5 +4,7 @@ function x() {
 }
 x()
 
+//in terminal write node index.js to execute the content of index.js
+
 
 
